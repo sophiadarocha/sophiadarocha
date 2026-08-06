@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá, meu nome é Sophia e sou estudante de Ciência da Computação, atualmente cursando o 2º período. Estou construindo minha base em programação e dados, com foco em SQL, Python e automação. Atualmente buscando minha primeira oportunidade na área.
+**🎓 Formação**
+- Ciência da Computação — Unigrande (2º período)
 
-<!--
-**sophiadarocha/sophiadarocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🛠 Tecnologias e ferramentas**
+- Python 
+- SQL
+- Excel / Google Sheets
+- Git & GitHub
+- Inglês avançado
 
-Here are some ideas to get you started:
+**📈 O que estou estudando agora**
+- Fundamentos de Python aplicados à análise de dados
+- SQL 
+- Automação de tarefas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📫 Contato**
+- LinkedIn: https://www.linkedin.com/in/sophiadarocha/
+- Email: rochasophia029@gmail.com

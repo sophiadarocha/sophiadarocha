@@ -12,7 +12,7 @@
 **📈 O que estou estudando agora**
 - Fundamentos de Python aplicados à análise de dados
 - SQL 
-- Automação de tarefas
+- HTML, CSS e Javascript
 
 **📫 Contato**
 - LinkedIn: https://www.linkedin.com/in/sophiadarocha/
